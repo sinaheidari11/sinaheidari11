@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sinaheidari11
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on game developin projects
+- 💞️ I’m looking to collaborate on game developing projects
 - 📫 How to reach me sina.heidari1868@gmail.com
 
 <!---
